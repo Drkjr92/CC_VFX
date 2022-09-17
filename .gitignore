@@ -1,0 +1,12 @@
+#ignore all logs
+Logs/
+*.log
+
+#ignore Project Settings
+Packages/
+
+#ignore Project Settings
+ProjectSettings/
+
+#ignore User Settings
+UserSettings/
